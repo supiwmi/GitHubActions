@@ -1,7 +1,6 @@
 {
   "name": "simplenodeapp",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index",
@@ -12,5 +11,15 @@
   "devDependencies": {
     "electron-packager": "^15.2.0",
     "mocha": "^8.2.1"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supiwmi/GitHubActions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/supiwmi/GitHubActions/issues"
+  },
+  "homepage": "https://github.com/supiwmi/GitHubActions#readme",
+  "description": ""
 }
